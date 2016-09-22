@@ -1,0 +1,23 @@
+body {
+
+
+text-align: center;
+	background-color:purple;
+}
+
+span {
+	font-size: 400%;
+	display: inline;
+position: relative;
+letter-spacing: -2px;
+color: orange;
+}
+
+
+
+.test {
+	font-size: 150%;
+
+color:lightblue;
+
+}
