@@ -79,9 +79,9 @@ var planetCheck = ["Sun","Moon","Earth"].indexOf(planetName);
 
 
 if(planetCheck != -1)  {   
-  output.innerHTML="You are"+" "+roundfinalWeight+" "+ "lbs, While you are on the"+" "+planetName;
+  output.innerHTML="You are " +roundfinalWeight+ " lbs, when on the " +planetName+ ".";
 }else {
-  output.innerHTML="You are"+" "+roundfinalWeight+" "+ "lbs, While you are on "+" "+planetName;
+  output.innerHTML="You are " +roundfinalWeight+ "lbs, when on " +planetName+ ".";
 
 }
 
